@@ -15,7 +15,7 @@ Dieses Projekt ermöglicht es jeder Person, eine eigene KI-Brille einfach und ko
 
 - `Einzelteile (STL)/`
   - Einzelne Bauteile separat, falls du Ersatz benötigst.
-- `Fusion360-Dateien/`
+- `Fusion360-Dateien (F3Z)/`
   - Originaldateien zur individuellen Anpassung der Bauteile.
 
 ## So funktioniert es
